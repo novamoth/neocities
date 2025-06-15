@@ -3,7 +3,7 @@
    "how to change link color." */
 
 body {
-  background-color: #ffd2ec;
+  background-color: #ffa7da;
   /* background-image: url("../images/lighthouse.jpg"); */
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -22,7 +22,7 @@ img {
   height: auto;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  outline-color: #ff5ae9;
+  outline-color: #ffd270;
   outline-style: ridge;
   outline-width: 4px;
   outline-offset: 0;
@@ -62,7 +62,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #fff;
+  color: #ffa7da;
   font-family: "Palatino Linotype", Palatino, Baskerville,
     "Baskerville Old Face", sans-serif;
 }
@@ -72,16 +72,16 @@ h5 {
   margin: 3em auto;
   width: 90%;
   max-width: 700px;
-  background-color: #eea8d1;
-  color: #fff;
-  outline-color: #ff5ae9;
+  background-color: #fff8fc;
+  color: #ffa7da;
+  outline-color: #ffd270;
   outline-style: ridge;
   outline-width: 4px;
   outline-offset: 0;
 }
 
 #container a {
-  color: #ff5ae9;
+  color: #ffd270;
 }
 
 #content {
@@ -91,9 +91,9 @@ h5 {
 /*HEADER STYLE*/
 #header {
   position: relative;
-  background-color: #eea8d1;
+  background-color: #fff8fc;
   padding: 0 5%;
-  border-color: #ff5ae9;
+  border-color: #ffd270;
   border-style: ridge;
   border-width: 0 0 4px 0;
 }
@@ -110,7 +110,7 @@ h5 {
   margin-top: 0.2em;
 }
 #header li a {
-  color: #ff5ae9;
+  color: #ffd270;
   font-family: "Palatino Linotype", Palatino, Baskerville,
     "Baskerville Old Face", serif;
   text-decoration: none;
