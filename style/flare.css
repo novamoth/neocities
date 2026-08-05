@@ -1,0 +1,14 @@
+:root {
+  --theme-background-image: url(/images/bg_flare.jpg);
+  --theme-banner-image: url(/images/banner_flare.png);
+  --theme-background-color: black;
+  --theme-border-color: blue;
+  --theme-text-color: white;
+  --theme-text-shadow-color: black;
+  --theme-box-background-color: rgba(0, 0, 0, 0.7);
+  --theme-border-style: ridge;
+  --theme-outline-style: none;
+  --theme-outline-color: black;
+  --theme-background-repeat: no-repeat;
+  --theme-background-size: cover;
+}

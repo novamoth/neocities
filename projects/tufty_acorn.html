@@ -1,10 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nova's Neospace</title>
+    <link
+      href="/style/flare.css"
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+    />
     <link
       href="/style/sheet.css"
       rel="stylesheet"
@@ -13,28 +19,52 @@
     />
   </head>
   <body>
-    <div class="flex-container add-top-margin add-bottom-margin">
-      <div class="flex-item-full">
-        <h2>Tufty Acorn</h2>
-        <p><a href="..">Back to homepage</a></p>
+    <div class="add-top-margin grid-container-misc add-bottom-margin">
+      <div class="top-banner"><img src="/images/banner_flare.png" /></div>
+      <div class="left-nav"></div>
+      <div class="article">
+        <div class="tile">
+          <h3>Tufty Acorn</h3>
+          <p>
+            Background information: The Tufty2040 is a digital badge. If you buy
+            it and connect it to a LiPo battery, you have a
+            low-power-consumption badge for use at events. It is intended for
+            use by relatively technical individuals.
+          </p>
+          <p>
+            The "Tufty Acorn" system is an attempt to bring accessibility to the
+            system, specifically for plural systems. Rather than making custom
+            python code, it allows users to upload a PluralKit system.json file,
+            which will automatically program the badge with the system's
+            members. Pressing up and down can change the
+            <a
+              href="https://autisticadvocacy.org/wp-content/uploads/2014/02/ColorCommunicationBadges.pdf"
+              >Color Communication Badge</a
+            >
+            displayed, and pressing the letter buttons change the current
+            profile displayed. Created for a friend.
+          </p>
+          <a href="https://github.com/novamoth/tufty-acorn">
+            <img src="/images/acorn_system.png" />
+            <p>Check out the repository by clicking here.</p>
+          </a>
+        </div>
       </div>
-      <div class="flex-item-left">
-        <p>
-          The Tufty Acorn system is an easy way for plural systems to interface
-          with the Tufty2040 digital badge system. Rather than making custom
-          python code, it allows users to upload a PluralKit exported
-          system.json file, which will format the badge to scroll through system
-          members to represent the current fronter. Created for a friend.
-        </p>
-        <p>
-          <a href="https://github.com/novamoth/tufty-acorn"
-            >Check out the repository by clicking here.</a
-          >
-        </p>
-      </div>
-      <div class="flex-item-right">
-        <img src="../images/acorn_system.png" />
+      <div class="tile webrings"><p>Webrings coming soon!</p></div>
+      <div class="tile graphics">
+        <p>Buttons</p>
+        <span id="graphics-buttons"></span>
+        <p>Stamps</p>
+        <span id="graphics-stamps"></span>
       </div>
     </div>
+    <div class="attribution">
+      This page is by <a href="/plurality/index.html#flare">Flare</a>.
+    </div>
   </body>
+  <script id="alter" type="text/plain">
+    Flare
+  </script>
+  <script src="/js/random.js"></script>
+  <script src="/js/loadnav.js"></script>
 </html>

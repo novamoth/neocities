@@ -1,0 +1,14 @@
+:root {
+  --theme-background-image: url(/images/bg.png);
+  --theme-banner-image: url(/images/banner.png);
+  --theme-background-color: black;
+  --theme-border-color: gold;
+  --theme-text-color: white;
+  --theme-text-shadow-color: black;
+  --theme-box-background-color: rgba(0, 0, 0, 0.3);
+  --theme-border-style: ridge;
+  --theme-outline-style: none;
+  --theme-outline-color: black;
+  --theme-background-repeat: repeat;
+  --theme-background-size: 200px;
+}

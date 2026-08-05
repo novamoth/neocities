@@ -1,26 +1,46 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nova's Neospace</title>
-    <!-- The style.css file allows you to change the look of your web pages.
-         If you include the next line in all your web pages, they will all share the same look.
-         This makes it easier to make new pages for your site. -->
-    <link href="/indexStyle.css" rel="stylesheet" type="text/css" media="all" />
+    <link
+      href="/style/horizon.css"
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+    />
+    <link
+      href="/style/sheet.css"
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+    />
   </head>
   <body>
-    <div class="flex-container add-top-margin add-bottom-margin">
-      <div class="flex-item-left">
-        <div>
-          <h1>Nova</h1>
-          the
-          <h1>404 not found</h1>
+    <div class="add-top-margin grid-container-misc add-bottom-margin">
+      <div class="top-banner"><img src="/images/banner.png" /></div>
+      <div class="left-nav"></div>
+      <div class="article">
+        <div class="tile" style="color: white">
+          <h3>???</h3>
+          <p>Something went wrong. Get out of here.</p>
         </div>
-        <p>Something went wrong. Get out of here.</p>
-        <p><a href="/">Home</a></p>
+      </div>
+      <div class="tile webrings"></div>
+      <div class="tile graphics">
+        <p>Buttons</p>
+        <span id="graphics-buttons"></span>
+        <p>Stamps</p>
+        <span id="graphics-stamps"></span>
       </div>
     </div>
+    <div class="attribution">This page isn't.</div>
   </body>
+  <script id="alter" type="text/plain">
+    Horizon
+  </script>
+  <script src="/js/random.js"></script>
+  <script src="/js/loadnav.js"></script>
 </html>

@@ -1,0 +1,406 @@
+{
+  "graphics": {
+    "buttons": [
+      {
+        "sourceUrl": "",
+        "file": "internetarchive.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "y2k.gif",
+        "alters": ["Flare", "Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "kriswheretfarewe.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "ublockbutton.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "emulate.gif",
+        "alters": ["Flare", "Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "this-user-ranches-pink.gif",
+        "alters": ["Medium", "Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "affection.gif",
+        "alters": ["Medium"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "handcode.jpg",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "goodnight.gif",
+        "alters": ["Alpheratz"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "yippee.gif",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "Button_Kuromi.gif",
+        "alters": ["Medium"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "thevoid.gif",
+        "alters": ["Horizon"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "killsfacists.png",
+        "alters": ["Flare", "Rogue"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "y2k.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "sharing.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "yume.gif",
+        "alters": ["Horizon", "Nebula"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "88by31.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://alyx.sh/posts/hrt-geocities-buttons/",
+        "file": "e2v2-88x31.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://mykocalico.neocities.org/buttons",
+        "file": "iwasoncohost.gif",
+        "alters": ["Aster", "Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "web3.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "mod_3ds.jpg",
+        "alters": ["Aster", "Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "queercoded.jpg",
+        "alters": ["Flare"]
+      }
+    ],
+    "stamps": [
+      {
+        "sourceUrl": "https://shishka.neocities.org/graphics/stamps",
+        "file": "shishka-gameboy.gif",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://shishka.neocities.org/graphics/stamps",
+        "file": "shishka-nintendo.gif",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "taskmanager.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "transnerdsruntheweb.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "weirdnoisesallthetime.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "lovestarberriesposerfan.gif",
+        "alters": ["Aster", "Alpheratz"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "mother3.gif",
+        "alters": ["Aster", "Alpheratz"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/scarletdestiney/art/Nap-Queen-786281150",
+        "file": "ScarletDestiney6.png",
+        "alters": ["Alpheratz"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "rainbowbeadsstars.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "legos.png",
+        "alters": ["Aster", "Medium"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "pastelstars.png",
+        "alters": ["Aster", "Alpheratz"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "pasteltea.png",
+        "alters": ["Medium", "Alpheratz"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "alienpicks.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "galaxygirl.png",
+        "alters": ["Aster", "Medium", "Alpheratz", "Horizon"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "lesbianmoons.png",
+        "alters": ["Medium"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "tarotcat.png",
+        "alters": ["Medium"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "testcard.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "vhs.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "90scarpet.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "tamagotchis.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "glitchtv2.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://madpaddington.neocities.org/freebies",
+        "file": "ouran59.png",
+        "alters": ["Aster", "no-main"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "glowingstars.png",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "eyes.gif",
+        "alters": ["Horizon", "Mactavi"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "my_house.png",
+        "alters": ["Horizon"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "remember.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "isopodhours.png",
+        "alters": []
+      },
+      {
+        "sourceUrl": "",
+        "file": "eyesstamp.gif",
+        "alters": ["Horizon", "Mactavi"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "dvd.gif",
+        "alters": []
+      },
+      {
+        "sourceUrl": "",
+        "file": "error.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://irkeneon.neocities.org/deco",
+        "file": "stampalterhuman1.png",
+        "alters": ["Aster", "Medium", "Rogue", "Flare", "Mactavi"]
+      },
+      {
+        "sourceUrl": "https://irkeneon.neocities.org/deco",
+        "file": "stampplural1.png",
+        "alters": ["Aster", "Medium", "Rogue", "Flare", "Mactavi"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/yourelostlittlegirl/art/140-1322624486",
+        "file": "glitch.gif",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/nzmk99/art/ena-and-moony-stamp-967974247",
+        "file": "ena.png",
+        "alters": ["Flare"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/heart-stamp/art/Mimikyu-Stamp-664732880",
+        "file": "mimikyu.gif",
+        "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/drybones157/art/Ghost-Pokemon-stamp-532098442",
+        "file": "ghost.gif",
+        "alters": ["Aster", "Medium"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/crvyons/art/Silent-Hill-F-Stamp-1248442859",
+        "file": "silent_hill_f.png",
+        "alters": ["Aster", "Medium"]
+      },
+      {
+        "sourceUrl": "",
+        "file": "druids.png",
+        "alters": ["Aster"]
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "quote": "When I was your age, I always did it for half an hour a day. Why, sometimes I've believed as many as six impossible things before breakfast.",
+      "attribution": "The White Queen, Through the Looking Glass, Lewis Carroll"
+    },
+    {
+      "quote": "I'm afraid I can't explain myself, sir. Because I am not myself, you see?",
+      "attribution": "Alice, Alice in Wonderland, Lewis Carroll"
+    },
+    {
+      "quote": "Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly, dreaming I am a man.",
+      "attribution": "Zhuang Zhou"
+    },
+    {
+      "quote": "Everything changes and nothing stands still.",
+      "attribution": "Heraclitus"
+    },
+    {
+      "quote": "You may say I'm a fool, feelin' the way that I do\nI believe in friends and laughter, and the wonders love can do\nI believe in songs and magic\nAnd that's why I believe in you!",
+      "attribution": "Pollyanna, Mother 1 Soundtrack"
+    },
+    {
+      "quote": "Millions and billions and trillions of stars\nBut I'm down here low\nFussin' over scars on my soul, on my soul\nOn my soul, on my soul\nOn my soul, I am so infinitesimal, oh!",
+      "attribution": "Infinitesimal, Mother Mother"
+    },
+    {
+      "quote": "So here I am\nGrowing older all the time\nLooking older all the time\nFeelin' younger in my mind",
+      "attribution": "Superman, Goldfinger"
+    },
+    {
+      "quote": "I grew up on the corner of normal and tragedy,\nDreaming of bright lights and energy,\nThere was silver and gold on the path laid in front of me\nBut the shadows seemed more interesting.",
+      "attribution": "Dawn, Echo Black"
+    },
+    {
+      "quote": "I'm gonna live my life like I'm gonna die young,\nLike it's never enough, like I'm born to run",
+      "attribution": "I'm born to run, American Authors"
+    },
+    {
+      "quote": "Too many issues, so I wouldn't blame you\nBearer of bad news, I've got no excuse\n… I talk to myself, self\nI think I need help, help\nSo what if I'm na-na-na not okay?",
+      "attribution": "I'm not Okay, Weathers"
+    },
+    {
+      "quote": "Through our eyes, the universe is perceiving itself. Through our ears, the universe is listening to its harmonies. We are the witnesses through which the universe becomes conscious of its glory, of its magnificence.",
+      "attribution": "Alan W Watts"
+    },
+    {
+      "quote": "Our Sun is a second- or third-generation star. All of the rocky and metallic material we stand on, the iron in our blood, the calcium in our teeth, the carbon in our genes were produced billions of years ago in the interior of a red giant star. We are made of star-stuff.",
+      "attribution": "Carl Sagan"
+    },
+    {
+      "quote": "In the beginning there was nothing, which exploded.",
+      "attribution": "Terry Pratchet"
+    },
+    {
+      "quote": "Arriving at each new city, the traveler finds again a past of his that he did not know he had: the foreignness of what you no longer are or no longer possess lies in wait for you in foreign, unpossessed places.",
+      "attribution": "Invisible Cities"
+    },
+    {
+      "quote": "I was walking through my life and feeling sick that's when\nI started plotting out a course to getting free again\nWhile making pennies for some psychopath businessman\nI started thinking that I might be on the verge of something",
+      "attribution": "The Verge, Bad Moves"
+    },
+    {
+      "quote": "Will I always know this divide?\nLiving host to this war inside\nTake this ghost of me with the tide to die\nAnd release my heart to come alive!",
+      "attribution": "Tip Toes, half•alive"
+    },
+    {
+      "quote": "Floating in outer space, have I misplaced a part of my soul?\nLost in the in-between, or so it seems, I'm out of control\nFloating in outer space, have I misplaced a part of my soul?\nLost in the in-between, but it can't keep me asleep for long, 'cause\n\nI still feel alive!",
+      "attribution": "still feel., half•alive"
+    },
+    {
+      "quote": "Always and still, a moth to folly's candle.",
+      "attribution": "Alexis Kennedy"
+    },
+    {
+      "quote": "I guess I'll invent a game.",
+      "attribution": "Alfred Butts, on inventing Scrabble"
+    },
+    {
+      "quote": "Because it's there.",
+      "attribution": "George Mallory, when asked why he wanted to climb Mount Everest"
+    },
+    {
+      "quote": "I don't know, I thought it would be cool.",
+      "attribution": "Will Wright, when asked why he created SimCity"
+    },
+    {
+      "quote": "Little solace comes\nto those who grieve\nwhen thoughts keep drifting\nas walls keep shifting\nand this great blue world of ours\nseems a <span style=\"color:#6570ae\">house</span> of leaves\n\nmoments before the wind",
+      "attribution": "Zampanò, <span style=\"color:#6570ae\">House</span> of Leaves, Mark Z. Danielewski"
+    },
+    {
+      "quote": "This is not for you.",
+      "attribution": "<span style=\"color:#6570ae\">House</span> of Leaves, Mark Z. Danielewski"
+    },
+    {
+      "quote": "We all create stories to protect ourselves.",
+      "attribution": "Johnny Truant, <span style=\"color:#6570ae\">House</span> of Leaves, Mark Z. Danielewski"
+    }
+  ]
+}

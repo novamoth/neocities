@@ -1,10 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nova's Neospace</title>
+    <link
+      href="/style/flare.css"
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+    />
     <link
       href="/style/sheet.css"
       rel="stylesheet"
@@ -13,15 +19,55 @@
     />
   </head>
   <body>
-    <div class="flex-container add-top-margin add-bottom-margin">
-      <div class="flex-item-full">
-        <h2>Neospace</h2>
-        <p><a href="..">Back to homepage</a></p>
-        <p>This website! :D</p>
-        <p>
-          I'm not sure what else to say here tbh I'm leaving this page blankkkk
-        </p>
+    <div class="add-top-margin grid-container-misc add-bottom-margin">
+      <div class="top-banner"><img src="/images/banner_flare.png" /></div>
+      <div class="left-nav"></div>
+      <div class="article">
+        <div class="tile">
+          <h3>Neospace</h3>
+          <p>
+            <i>This</i> is our profile, our identity free of a character limit
+            and free of purchaseable cosmetics. Our little space of the indie
+            web.
+          </p>
+          <p>
+            It's gone through four iterations at time of writing this, and may
+            go through yet more.
+          </p>
+          <p>
+            But it will always be mine, made of raw HTML-CSS-JS, and hostable on
+            any service. Neocities could burn tomorrow, and I will have a new
+            host by sunset.
+          </p>
+          <p>
+            I strongly recommend readers try to make their own as well. Linktree
+            will police what you link to, and may have ulterior motives for
+            collecting links to all of your social media profiles. But if you
+            run your own linktree, it will always be yours to control.
+          </p>
+          <p>
+            And that's to say nothing of customization, obviously. This page
+            looks different from the others, because it is
+            <a href="/plurality/index.html#flare"><i>mine</i></a
+            >. Can't do that with a bsky.
+          </p>
+        </div>
+      </div>
+      <div class="tile webrings"><p>Webrings coming soon!</p></div>
+      <div class="tile graphics">
+        <p>Buttons</p>
+        <span id="graphics-buttons"></span>
+        <p>Stamps</p>
+        <span id="graphics-stamps"></span>
       </div>
     </div>
+    <div class="attribution">
+      This page is by <a href="/plurality/index.html#flare">Flare</a>.
+    </div>
   </body>
+  <script id="alter" type="text/plain">
+    Flare
+  </script>
+  <script src="/js/random.js"></script>
+  <script src="/js/loadnav.js"></script>
 </html>

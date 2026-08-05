@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -6,38 +6,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nova's Neospace</title>
     <link
-      href="../style/sheet.css"
+      href="/style/aster.css"
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+    />
+    <link
+      href="/style/sheet.css"
       rel="stylesheet"
       type="text/css"
       media="all"
     />
   </head>
   <body>
-    <div class="flex-container add-top-margin add-bottom-margin">
-      <div class="flex-item-full">
-        <h2>Avarice "VFX Moth"</h2>
-        <p><a href="..">Back to homepage</a></p>
+    <div class="add-top-margin grid-container-misc add-bottom-margin">
+      <div class="top-banner"><img src="/images/banner.png" /></div>
+      <div class="left-nav"></div>
+      <div class="article">
+        <div class="tile">
+          <h2>HELPING MY GM FRIEND &#60&#x33;</h2>
+          <p>
+            I've been the "VFX Moth" on a friend's FoundryVTT campaign for a
+            while now!!! When she needs some form of audiovisual or technical
+            effect to bring her vision to life, I've helped make sure it is
+            possible!! She's REALLY good, like super professional quality, so
+            like, I wanna make sure she can. This included a TON of stuff like
+            creating Sequencer macros so bosses can have special unique attacks,
+            finding new add-ons for her to use, and even creating
+            custom-programmed Modules for her (to display an area's title).
+          </p>
+          <p>
+            But by faaaar the most complex thing I did was the Avarice Act 1
+            Recap. She recorded a series of voice lines that she wanted edited,
+            but I took it upon myself to make an entire lightly-animated video.
+            Like, tokens moving back and forth to mimic what happened. This came
+            out to final runtime of 17 minutes, and was really complicated
+            because it used stuff like geometry nodes and custom video filters.
+          </p>
+          <p>Stupidest thing I ever did, in like, the best way.</p>
+          <img src="/images/brand_render.png" />
+        </div>
       </div>
-      <div class="flex-item-left">
-        <p>
-          I've been the "VFX Moth" on a friend's FoundryVTT campaign for a few
-          months now. When she needs some form of audiovisual or technical
-          effect to bring her vision to life, I've helped make sure it is
-          possible to execute as she envisioned. This has included creating
-          Sequencer macros, finding new add-ons for her to use, and creating
-          custom-programmed Modules for her.
-        </p>
-        <p>
-          The most complex and difficult element of this was the Avarice Act 1
-          Recap. She recorded a series of voice lines that she wanted edited,
-          but I took it upon myself to make an entire lightly-animated video
-          (using Blender). This came out to final runtime of 17 minutes,
-          leveraging many different Blender features to realize it.
-        </p>
-      </div>
-      <div class="flex-item-right">
-        <img src="../images/brand_render.png" />
+      <div class="tile webrings"><p>Webrings coming soon!</p></div>
+      <div class="tile graphics">
+        <p>Buttons</p>
+        <span id="graphics-buttons"></span>
+        <p>Stamps</p>
+        <span id="graphics-stamps"></span>
       </div>
     </div>
+    <div class="attribution">
+      This page is by <a href="/plurality/index.html#aster">Aster</a>!!
+    </div>
   </body>
+  <script id="alter" type="text/plain">
+    Aster
+  </script>
+  <script src="/js/random.js"></script>
+  <script src="/js/loadnav.js"></script>
 </html>
