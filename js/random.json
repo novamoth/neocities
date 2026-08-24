@@ -302,6 +302,11 @@
         "sourceUrl": "",
         "file": "druids.png",
         "alters": ["Aster"]
+      },
+      {
+        "sourceUrl": "https://www.deviantart.com/frostflowerdew/art/House-Of-Leaves-Stamp-692689532",
+        "file": "houseofleaves.png",
+        "alters": ["Horizon"]
       }
     ]
   },
