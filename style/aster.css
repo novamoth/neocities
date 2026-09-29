@@ -1,8 +1,8 @@
 :root {
   --theme-background-image: url(/images/bg_aster.png);
-  --theme-banner-image: url(/images/banner.png);
+  --theme-banner-image: url(/images/banner_aster.png);
   --theme-background-color: black;
-  --theme-border-color: #7df9ff;
+  --theme-border-color: #7dff93;
   --theme-text-color: white;
   --theme-text-shadow-color: black;
   --theme-box-background-color: rgba(0, 0, 0, 0.3);
